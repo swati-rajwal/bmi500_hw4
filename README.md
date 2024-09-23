@@ -1,4 +1,6 @@
 <h1 align="center">Data Analysis on Old Faithful Geyser</h1>
+<h5 align="center">Codebase for Fall 2024 BMI 500 Coursework Week 4 Assignment at Emory University</h5>
+<h5 align="center">Submitted by Swati Rajwal</h5>
 <p align="center">
 <img src="output/outlier_removed_distribution_new.png" alt="Example Image" width="500"/>
 </p>
