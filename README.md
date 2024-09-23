@@ -13,7 +13,7 @@ Our approach involves utilizing Python libraries to process the dataset and appl
   <table>
     <tr>
       <td>
-        <img src="output/outlier_removed_distribution_new.png" alt="Plot A" width="400"/>
+        <img src="output/outlier_removed_distribution_new.png" alt="Plot A" width="600"/>
         <p align="center"><b>Figure 1: Cleaned data distribution of (A) geyser eruption duration and (B) wait time.</b></p>
       </td>
       <td>
