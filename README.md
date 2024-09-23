@@ -1,10 +1,28 @@
 <h1 align="center">Data Analysis on Old Faithful Geyser</h1>
 <h5 align="center">Codebase for Fall 2024 BMI 500 Coursework Week 4 Assignment at Emory University</h5>
 <h5 align="center">Submitted by Swati Rajwal</h5>
-<p align="center">
-<img src="output/outlier_removed_distribution_new.png" alt="Example Image" width="500"/>
-</p>
-<p align="center"><b>Figure 1: Data distribution of (A) geyser eruption duration and (B) wait time.</b></p>
+
+## 🎯Objectives
+The primary objective of this assignment is to demonstrate a data treatment and analysis pipeline using the Old Faithful geyser dataset. Specifically, the goals are to clean and preprocess the dataset by identifying and rectifying errors and outliers, and to explore the relationship between eruption duration and waiting time using statistical techniques. 
+
+## 👩‍💻Approach
+Our approach involves utilizing Python libraries to process the dataset and applying statistical techniques (Pearson correlation) to explore the relationship between given two variables.
+
+## 📈Results
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="output/outlier_removed_distribution_new.png" alt="Plot A" width="400"/>
+        <p align="center"><b>Figure 1: Cleaned data distribution of (A) geyser eruption duration and (B) wait time.</b></p>
+      </td>
+      <td>
+        <img src="output/correlation_plot.png" alt="Plot B" width="500"/>
+        <p align="center"><b>Figure 2: Scatterplot with regression line (red) showing the association between eruption durations (x-axis) and waiting time (y-axis).</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🏃‍♂️Running the Analysis
 1. The `hw4.py` is the main script containing all the code
